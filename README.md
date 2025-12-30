@@ -67,16 +67,16 @@ I’m a passionate **Java Full Stack Developer** with a strong interest in **bac
 - Data Structures & Algorithms (DSA)
 - Backend System Design Basics
 - Microservices Fundamentals
-
----
+ ---
 
 ## 📊 GitHub Stats
-![Vasanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VASANTH-8499&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VASANTH-8499&show_icons=true&theme=radical&cache_seconds=86400)
 
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VASANTHETTE?theme=dark&font=Karma)
 
 ---
+
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: [Vasanth Ette](https://www.linkedin.com/in/vasanth-ette-576994351)
