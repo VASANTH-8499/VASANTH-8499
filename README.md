@@ -9,7 +9,7 @@ I’m a passionate **Java Full Stack Developer** with a strong interest in **bac
 ---
 
 ## 🚀 About Me
-- 💼 Java Full Stack Developer Intern at **CodeBegun** (Jan 2024 – Apr 2024)
+- 💼 Java Full Stack Developer Intern at **CodeBegun** (April 2025 – December 2025)
 - ☕ Strong foundation in **Core Java, J2EE, JDBC**
 - 🌐 Hands-on experience with **HTML, CSS, JavaScript**
 - 🗄️ Worked extensively with **MySQL**
@@ -73,12 +73,17 @@ I’m a passionate **Java Full Stack Developer** with a strong interest in **bac
 ## 📊 GitHub Stats
 ![Vasanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VASANTH-8499&show_icons=true&theme=radical)
 
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/VASANTHETTE?theme=dark&font=Karma)
+
 ---
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: [Vasanth Ette](https://www.linkedin.com/in/vasanth-ette-576994351)
 - 📧 Email: vasanthvasu7447@gmail.com
 - 💻 GitHub: [VASANTH-8499](https://github.com/VASANTH-8499)
+- 🧠 LeetCode: https://leetcode.com/VASANTHETTE/
+
 
 ---
 
